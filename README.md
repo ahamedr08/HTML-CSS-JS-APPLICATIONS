@@ -19,3 +19,10 @@ This quiz application allows users to take quizzes on various topics. It present
 [Demo](https://ahamedr08.github.io/To-Do-List/) | [GitHub Repository](https://github.com/ahamedr08/To-Do-List)
 
 A simple to-do list application where users can add, delete, and mark tasks as completed. The application is built using HTML, CSS, and JavaScript, with data persistence using local storage.
+
+## Text to Speech Converter
+
+[Demo](https://ahamedr08.github.io/TextToSpeech-Converter/) | [GitHub Repository](https://github.com/ahamedr08/TextToSpeech-Converter/)
+
+This is a simple web application that converts text into speech. Users can enter any text into the provided textarea, and the application will read it out loud. It is built using HTML, CSS, and JavaScript.
+
